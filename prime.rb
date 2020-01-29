@@ -1,4 +1,4 @@
 def prime? (number)
   x =2
 while x < number
-ruturn false 
+ruturn false if 
